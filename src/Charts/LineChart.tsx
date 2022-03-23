@@ -7,7 +7,7 @@ import {
     LineElement,
     Title,
     Tooltip,
-    Filler, CoreChartOptions, ChartData, ChartConfiguration, ChartOptions, ScatterDataPoint, BubbleDataPoint
+    Filler
 } from 'chart.js';
 
 import { Line } from 'react-chartjs-2';
